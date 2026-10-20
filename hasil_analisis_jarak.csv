@@ -1,0 +1,11 @@
+gerai_1,gerai_2,jarak_km,status
+Gerai A,Gerai B,0.721,Berdekatan
+Gerai A,Gerai C,1.609,Tidak berdekatan
+Gerai A,Gerai D,0.611,Berdekatan
+Gerai A,Gerai E,1.72,Tidak berdekatan
+Gerai B,Gerai C,0.888,Berdekatan
+Gerai B,Gerai D,1.332,Tidak berdekatan
+Gerai B,Gerai E,2.441,Tidak berdekatan
+Gerai C,Gerai D,2.22,Tidak berdekatan
+Gerai C,Gerai E,3.329,Tidak berdekatan
+Gerai D,Gerai E,1.11,Tidak berdekatan
