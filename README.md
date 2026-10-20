@@ -7,14 +7,6 @@ Proyek ini merupakan implementasi Geographic Information System (GIS) menggunaka
 
 Data koordinat yang digunakan merupakan data simulasi di sekitar Kota Bengkulu. Proyek ini bertujuan untuk memahami pemanfaatan teknologi GIS dalam analisis spasial, khususnya untuk membantu mengevaluasi kedekatan lokasi gerai sebagai salah satu pertimbangan dalam perencanaan usaha.
 
-## Tujuan
-
-- Memahami penerapan GIS untuk analisis lokasi usaha.
-- Menghitung jarak antar-gerai berdasarkan koordinat geografis.
-- Mengidentifikasi pasangan gerai yang berdekatan.
-- Menampilkan persebaran gerai menggunakan peta interaktif.
-- Menyimpan hasil analisis jarak dalam format CSV.
-
 ## Teknologi yang Digunakan
 
 - **Python** — bahasa pemrograman utama.
