@@ -1,14 +1,8 @@
 
 # GIS Analisis Lokasi Gerai
 
-## Deskripsi
-Proyek Sistem Informasi Geografis (GIS) untuk
-menganalisis jarak antar-gerai dan menampilkan
-lokasi gerai melalui peta interaktif.
-
-Proyek ini dibuat sebagai studi kasus pembelajaran
-GIS pada sektor ritel berdasarkan materi
-Career and Competition in Industrial Era with GIS.
+## STUDI KASUS
+Pemanfaatan Geographic Information System (GIS) di sektor ritel dapat membantu menganalisis persebaran dan jarak antar-gerai sebagai bahan pertimbangan dalam menentukan lokasi usaha. Proyek ini mengembangkan program berbasis Python untuk menampilkan lokasi gerai pada peta interaktif, menghitung jarak antar-gerai, serta mengidentifikasi gerai yang berdekatan berdasarkan ambang jarak simulasi 1 kilometer. Data koordinat yang digunakan merupakan data simulasi di sekitar Kota Bengkulu, sehingga hasil analisis hanya digunakan untuk demonstrasi dan belum menjadi rekomendasi lokasi bisnis yang sebenarnya.
 
 ## Fitur
 - Menampilkan lokasi gerai pada peta.
